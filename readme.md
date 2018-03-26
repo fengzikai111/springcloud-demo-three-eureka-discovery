@@ -1,5 +1,4 @@
-server.port=8012
-
+注册中心
 eureka.instance.hostname=localhost
 eureka.client.register-with-eureka=false
 eureka.client.fetch-registry=false
